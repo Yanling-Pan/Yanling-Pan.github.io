@@ -83,12 +83,12 @@ author:
   name             : "Yanling Pan"
   avatar           : "profile.png"
   bio              : "CS @ Hohai University"
-  location         : "Nanjing, China"
+  location         : "1 Xikang Road£¬Nanjing£¬Jiangsu"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "ydarkfancy@gmail.com"
-  researchgate     : 
+  researchgate     : "Yanling-Pan"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yanling-pan-2399821a1/"
+  linkedin         : "yanling-pan-2399821a1/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # 
   steam            :
   tumblr           :
   twitter          : 
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projetcts
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

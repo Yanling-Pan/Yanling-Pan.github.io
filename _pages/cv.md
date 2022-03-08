@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Download CV in English](http://Yanling-Pan.github.io/files/CV_Yanling-Pan.pdf')
+
 [Download CV in Chinese](http://Yanling-Pan.github.io/files/CV_Yanling-Pan.pdf)
 
 Education

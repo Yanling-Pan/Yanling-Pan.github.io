@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV in English](http://Yanling-Pan.github.io/files/CV_Yanling-Pan.pdf')
+[Download CV in Chinese](http://Yanling-Pan.github.io/files/CV_Yanling-Pan.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. CS in Hohai University, 2019 - present
 
 Work experience
 ======

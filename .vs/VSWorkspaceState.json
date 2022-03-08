@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\files",
     "\\_drafts",
-    "\\_includes\\analytics-providers",
-    "\\_includes\\footer",
+    "\\_includes",
+    "\\_includes\\head",
+    "\\_layouts",
     "\\_pages",
     "\\_posts",
     "\\_publications",
     "\\_talks"
   ],
-  "SelectedNode": "\\_posts\\2199-01-01-future-post.md",
+  "SelectedNode": "\\files\\An_ultra-low-power_attitude_angular_estimation_solution_based_on_a_single_accelerator.pdf",
   "PreviewInSolutionExplorer": false
 }

@@ -1,6 +1,7 @@
 ### Hi there 👋
   - 🔭 This is Yanling Pan.
-  - 📫 Find detailed info in my website.
+		Greetings! I am a Bachelor student majoring in Computer Science at School of Computer and Information, Hohai University. I am currently a Reseach Assistant both in Blackant lab and Fan Liu’s lab.
+  - 📫 Find detailed info in my [personal website](https://yanling-pan.github.io/).
   - 💬 Feel free to contact me.
 <!--
 **YDArk-lml/YDArk-lml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
